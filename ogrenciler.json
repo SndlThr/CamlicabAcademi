@@ -1,0 +1,23 @@
+[
+  {
+    "kadi": "admin",
+    "sifre": "admin123",
+    "sinif": "0",
+    "puan": 0,
+    "role": "admin"
+  },
+  {
+    "kadi": "ogrenci1",
+    "sifre": "sifre1",
+    "sinif": "5",
+    "puan": 0,
+    "role": "ogrenci"
+  },
+  {
+    "kadi": "ogrenci2",
+    "sifre": "sifre2",
+    "sinif": "5",
+    "puan": 0,
+    "role": "ogrenci"
+  }
+]

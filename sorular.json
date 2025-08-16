@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "sinif": "5",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "cevaplar": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "dogruIndex": 1,
+    "puan": 5,
+    "resim": null
+  },
+  {
+    "id": 2,
+    "sinif": "5",
+    "soru": "Güneş Sistemi'ndeki en büyük gezegen hangisidir?",
+    "cevaplar": ["Dünya", "Mars", "Jüpiter", "Venüs"],
+    "dogruIndex": 2,
+    "puan": 5,
+    "resim": null
+  },
+  {
+    "id": 3,
+    "sinif": "5",
+    "soru": "Su hangi sıcaklıkta donar?",
+    "cevaplar": ["0°C", "100°C", "50°C", "-10°C"],
+    "dogruIndex": 0,
+    "puan": 5,
+    "resim": null
+  }
+]
